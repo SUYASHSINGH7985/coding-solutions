@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Suyash Singh
 
-![Skills Animation](https://media.giphy.com/media/JzCKS9MF89HLX0BPSs/giphy.gif) <!-- Animated Image for Technologies -->
+![Skills Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) <!-- Animated Image for Technologies -->
 
 ## 🧑‍🎓 About Me
 I am a **first-year B.Tech student specializing in Cyber Security** at [Your University]. Passionate about **software development** and **problem-solving**, I'm currently focusing on improving my coding skills, learning about **Cyber Security**, and developing real-world applications. I enjoy tackling challenging problems and contributing to open-source projects.
@@ -20,21 +20,7 @@ I am a **first-year B.Tech student specializing in Cyber Security** at [Your Uni
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## 🌐 Projects
-
-### [🔧 AI-based Recommendation System](https://github.com/S4yash/Project1)
-- **Description**: A machine learning recommendation system that suggests products based on user behavior.
-- **Technologies**: Python, Scikit-learn, Pandas
-- **Key Achievements**: Optimized algorithm for accuracy and scalability.
-
-### [💻 Personal Portfolio Website](https://github.com/S4yash/Portfolio)
-- **Description**: A personal website to showcase my skills, projects, and achievements.
-- **Technologies**: HTML, CSS, JavaScript
-- **Key Achievements**: Developed responsive design and dynamic user interface.
-
-### [⚡ LeetCode Solutions](https://github.com/S4yash/LeetCode-Solutions)
-- **Description**: A repository of solutions to coding problems on LeetCode to demonstrate problem-solving skills and algorithms.
-- **Technologies**: Python, C++
-- **Key Achievements**: Solved 100+ problems, focusing on algorithms and data structures.
+You can explore all my projects and solutions on my GitHub profile: [Suyash's GitHub Projects](https://github.com/S4yash)
 
 ## 🌐 Connect with Me
 Let’s connect! I’m always open to collaborating on exciting projects, learning new technologies, and engaging in technical discussions.
