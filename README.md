@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Suyash Singh
 
-![Hello, I'm Suyash](https://media.giphy.com/media/4nOHEJAWZYFOQhLHHh/giphy.gif) <!-- Optional animated image -->
+![Skills Animation](https://media.giphy.com/media/JzCKS9MF89HLX0BPSs/giphy.gif) <!-- Animated Image for Technologies -->
 
 ## 🧑‍🎓 About Me
 I am a **first-year B.Tech student specializing in Cyber Security** at [Your University]. Passionate about **software development** and **problem-solving**, I'm currently focusing on improving my coding skills, learning about **Cyber Security**, and developing real-world applications. I enjoy tackling challenging problems and contributing to open-source projects.
@@ -13,6 +13,7 @@ I am a **first-year B.Tech student specializing in Cyber Security** at [Your Uni
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ### **Tools & Technologies**:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -35,9 +36,6 @@ I am a **first-year B.Tech student specializing in Cyber Security** at [Your Uni
 - **Technologies**: Python, C++
 - **Key Achievements**: Solved 100+ problems, focusing on algorithms and data structures.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S4yash&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 ## 🌐 Connect with Me
 Let’s connect! I’m always open to collaborating on exciting projects, learning new technologies, and engaging in technical discussions.
 
@@ -50,4 +48,3 @@ Feel free to reach out for collaborations, technical inquiries, or just to conne
 ---
 
 *Thank you for visiting my GitHub profile!*
-
