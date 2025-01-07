@@ -20,7 +20,7 @@ I am a **first-year B.Tech student specializing in Cyber Security** at [Your Uni
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## 🌐 Projects
-You can explore all my projects and solutions on my GitHub profile: [Suyash's GitHub Projects]([https://github.com/S4yash](https://suyashsingh7985.github.io/mywebsite/))
+You can explore all my projects and solutions on my GitHub profile: [Suyash's GitHub Projects](https://suyashsingh7985.github.io/mywebsite/)
 
 ## 🌐 Connect with Me
 Let’s connect! I’m always open to collaborating on exciting projects, learning new technologies, and engaging in technical discussions.
