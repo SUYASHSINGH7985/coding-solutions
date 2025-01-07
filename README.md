@@ -3,7 +3,7 @@
 ![Skills Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) <!-- Animated Image for Technologies -->
 
 ## 🧑‍🎓 About Me
-I am a **first-year B.Tech student specializing in Cyber Security** at [VIT Vellore]. Passionate about **software development** and **problem-solving**, I'm currently focusing on improving my coding skills, learning about **Cyber Security**, and developing real-world applications. I enjoy tackling challenging problems and contributing to open-source projects.
+I am a **first-year B.Tech student specializing in Cyber Security** at VIT Vellore. Passionate about **software development** and **problem-solving**, I'm currently focusing on improving my coding skills, learning about **Cyber Security**, and developing real-world applications. I enjoy tackling challenging problems and contributing to open-source projects.
 
 ## 🚀 Skills
 
