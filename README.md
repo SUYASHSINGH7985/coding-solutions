@@ -3,7 +3,17 @@
 ![Skills Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) <!-- Animated Image for Technologies -->
 
 ## 🧑‍🎓 About Me
-I am a **first-year B.Tech student specializing in Cyber Security** at VIT Vellore. Passionate about **software development** and **problem-solving**, I'm currently focusing on improving my coding skills, learning about **Cyber Security**, and developing real-world applications. I enjoy tackling challenging problems and contributing to open-source projects.
+
+As a **first-year B.Tech student in Computer Science** with a specialization in **Cyber Security**, I am passionate about **technology**, **programming**, and **problem-solving**. My focus lies in mastering key programming languages such as **Python**, **Java**, and **C++**, while continuously exploring emerging technologies like **machine learning** and **cyber security**.
+
+I enjoy engaging in challenging projects that push my limits, both academically and professionally. By actively participating in coding challenges, contributing to open-source repositories, and working on personal projects, I aim to improve my technical expertise and contribute to meaningful innovations.
+
+### 🚀 My Goal
+I am eager to grow as a **software developer** and contribute to **cutting-edge technologies**. My ultimate goal is to leverage my skills to create impactful solutions in areas like **data security** and **software engineering**. Through continuous learning, collaboration, and hard work, I aspire to be part of a dynamic team that solves real-world problems.
+
+I believe in **lifelong learning**, and I am always open to collaborations that allow me to enhance my skills and work with talented professionals across the globe.
+
+
 
 ## 🚀 Skills
 
