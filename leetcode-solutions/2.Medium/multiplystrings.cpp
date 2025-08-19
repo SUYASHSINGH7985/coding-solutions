@@ -10,7 +10,7 @@
 class Solution
 {
 public:
-    string multiply(string num1, stsring num2)
+    string multiply(string num1, string num2)
     {
         int n = num1.size();
         int m = num2.size();
