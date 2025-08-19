@@ -3,7 +3,7 @@
 // Difficulty: Easy
 // Approach: if n is less than or equal to 0, return false.
 // Otherwise, calculate the logarithm of n base 3 and check if it is an integer.
-// time complexity: O(log n)
+// time complexity: O(1)
 // space complexity: O(1)
 
 class Solution
