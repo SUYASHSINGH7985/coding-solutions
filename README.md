@@ -9,9 +9,6 @@ Welcome to my personal LeetCode solutions! I practice problems in Python,Java an
 - Regularly updated 🚀
 
 ##  Structure
-- Folders by difficulty: Easy, Medium, Hard
-- File names follow: `problemNumber-title.py` (e.g., `1-two-sum.py`)
-- Each file contains:
   - Problem link
   - Explanation (as comments)
   - Code
